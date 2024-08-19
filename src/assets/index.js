@@ -25,10 +25,17 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import datayaan from "./company/datayaan.jpeg"
+import corizo from "./company/corizo.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import DoctorDate from "./DoctorDate.png";
+import DealDigger from "./DealDigger.png";
+import penitdown from "./Penitdown.png";
+import aichatbot from "./aichatbot.png"
+
 
 export {
   logo,
@@ -59,4 +66,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  DoctorDate,
+  DealDigger,
+  penitdown,
+  aichatbot,
+  datayaan,
+  corizo
+
 };
